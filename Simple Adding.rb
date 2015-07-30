@@ -1,11 +1,11 @@
 def SimpleAdding(num)
 
-  # code goes here
     sum = 0
     (1..num).each do |x|
     sum += x
     end
-  return sum
+    
+    return sum
          
 end
    
