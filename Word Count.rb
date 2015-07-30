@@ -1,6 +1,5 @@
 def WordCount(str)
 
-  # code goes here
   a = str
   s = a.count'word'
   return s
