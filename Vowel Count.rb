@@ -1,6 +1,5 @@
 def VowelCount(str)
 
-  # code goes here
   s = str
   a = s.count"a,e,i,o,u"
   return a 
