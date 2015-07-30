@@ -1,6 +1,5 @@
 def LetterCapitalize(str)
 
-  # code goes here
   a = str.split(' ').map(&:capitalize).join(' ')
   return a
          
